@@ -1,0 +1,9 @@
+F:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.dll
+F:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+F:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+F:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+H:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+H:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.dll
+H:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+H:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+H:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
